@@ -1,0 +1,4 @@
+{
+    "editor.defaultFormatter": "carlsirce.vscode-eden-plugin",
+    "editor.formatOnSave": true
+}
